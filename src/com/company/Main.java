@@ -43,7 +43,7 @@ public class Main {
     // Harry is ...
 
     // 4th Task:
-    // Write a program that allows takes in 10 numbers as an array
+    // Write a program that allows or takes in 10 numbers as an array
     // finds the largest number.
 
     // 5th Task:
@@ -59,7 +59,7 @@ public class Main {
     // the number of odd numbers is ...
 
     // 6th Task:
-    // Create a class called Vehicle. Let this car have features like,
+    // Create a class called Vehicle. Let this vehicle have features like,
     // length of the vehicle, the number of seats,
     // no of tires, name/brand of the vehicle, current speed.
     //
@@ -70,5 +70,7 @@ public class Main {
 
     // Time: 40mins.
     // more after these...
+
+
 
 }
