@@ -46,4 +46,30 @@ public class OddNumbers {
     }
 
 
+    // 40 mins.
+
+    // 1st Task:
+    // Simple interest calculator
+    // The formula for simple interest is (P*R*T)/100. The time is in years.
+    // - Allow the user to enter the principal, rate and time
+    // - interactively print out the simple interest.
+
+    // 2nd Task:
+    // String Reversal
+    // - Allow the user to enter a string,
+    // - Interactively Print out the string in reverse.
+    // e.g egg - gge, jade is a boy - yob a si edaj
+
+    // 3rd Task:
+    // Write 2 methods.
+    // - They both return boolean.
+    // - one checks for odd numbers.
+    // - another checks for even numbers.
+    // Then use these methods in your main method to check if a value
+    // entered by the user is even or odd.
+
+
+
+
+
 }
